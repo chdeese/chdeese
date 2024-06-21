@@ -6,7 +6,8 @@ I am looking for an Internship over break from college or part-time job opportun
 
 ## Projects
 <h3>LooterLand</h3>
-LooterLand is a third person arcade score accumulation game created in Unity.
+LooterLand is a third-person lowpoly-style score accumulation game created in Unity.
+You can download the game [here](https://looter-land.itch.io/looter-land).
 
 
 
