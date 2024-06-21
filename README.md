@@ -1,11 +1,11 @@
 ## About Me
 I'm Christian Deese, a student Unity programmer! 
 
-I am looking for an Internship over break from college or part-time job opportunities that I can work on during schooling! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-deese-ab890828b/)
+I am looking for an Internship over break from college or part-time job opportunities that I can work on during schooling! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-deese-ab890828b/).
 
 
 ## Projects
-<h3>LooterLand</h3>
+#### LooterLand
 LooterLand is a third-person lowpoly-style score accumulation game created in Unity.
 You can download the game [here](https://looter-land.itch.io/looter-land).
 
