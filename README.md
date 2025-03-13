@@ -1,7 +1,7 @@
 ## About Me
 I'm Christian Deese, a video game programmer! 
 
-I am looking for part-time job opportunities that I can work on during schooling! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-deese-ab890828b/)
+I am looking for job opportunities! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-deese-ab890828b/)
 
 ## Projects
 #### LooterLand
