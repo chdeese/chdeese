@@ -1,9 +1,14 @@
 ## About Me
-I'm Christian Deese, a video game programmer! 
+I'm Christian Deese, a software engineer and gameplay programmer! I'm familiar with Unreal Engine, Unity, C++, and C#.
 
-I am looking for job opportunities! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/christian-deese-ab890828b/)
+I am looking for job opportunities! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/chdeese)
 
 ## Projects
+
+#### Escape Velocity
+A 3D platformer with a dynamic gravity system and a propulsion gun for traversal through the level.
+This game is still in development, currently in the beta phase. 
+
 #### LooterLand
 LooterLand is a third-person lowpoly-style score accumulation game created in Unity.
 You can download the game [here](https://looter-land.itch.io/looter-land)
