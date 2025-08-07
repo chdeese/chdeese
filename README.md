@@ -3,15 +3,17 @@ I'm Christian Deese, a software engineer and gameplay programmer! I'm familiar w
 
 I am looking for job opportunities! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/chdeese)
 
+Check out my [portfolio](chdeese.github.io).
+
 ## Projects
 
 #### Escape Velocity
 A 3D platformer with a dynamic gravity system and a propulsion gun for traversal through the level.
-This game is still in development, currently in the beta phase. 
+You can download the game [here!](https://sal-ev.itch.io/escape-velocity)
 
 #### LooterLand
 LooterLand is a third-person lowpoly-style score accumulation game created in Unity.
-You can download the game [here](https://looter-land.itch.io/looter-land)
+You can download the game [here!](https://looter-land.itch.io/looter-land)
 
 
 
