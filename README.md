@@ -3,7 +3,7 @@ I'm Christian Deese, a software engineer and gameplay programmer! I'm familiar w
 
 I am looking for job opportunities! Reach out to me at cdeesemail@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/chdeese)
 
-Check out my [portfolio](chdeese.github.io).
+Check out my [portfolio](https://chdeese.github.io).
 
 ## Projects
 
